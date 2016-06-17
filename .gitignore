@@ -2,3 +2,5 @@ out
 gradle
 .gradle
 Spring_study.*
+src/main/java/com/homework/
+src/main/java/input.txt

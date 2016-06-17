@@ -32,6 +32,7 @@ public class Main {
         printHashCodes(nullString);
         printHashCodes(simpleData);
 
+        System.out.println(System.identityHashCode(new SimpleData("Another String")));
     }
 
     static class SimpleData {
